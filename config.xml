@@ -79,7 +79,7 @@
     <plugin name="cordova-plugin-nativeaudio" spec="~3.0.9" />
     <plugin name="aerogear-cordova-push" spec="~3.1.0" />
     <plugin name="call-number" spec="https://github.com/Rohfosho/CordovaCallNumberPlugin.git" />
-    <plugin name="cordova-plugin-iosrtc" spec="~4.0.0" />
+    <plugin name="cordova-plugin-iosrtc" spec="https://github.com/jcesarmobile/cordova-plugin-iosrtc#test-hook" />
     <plugin name="cordova-plugin-settings-hook" spec="~0.2.4" />
     <plugin name="cordova-plugin-add-swift-support" spec="~1.6.2" />
 </widget>
